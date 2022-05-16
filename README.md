@@ -13,6 +13,7 @@
 - 👨‍🎓 I am currently a MA Statistics (Data Science) student at <a href="https://www.columbia.edu/">Columbia University </a>
 - 👨‍🎓 I have completed my BSc Economics,Mathematics and Statistics from <a href="https://www.pict.edu/">Christ University </a> with a CGPA of 3.67/4.
 - 💻 I have worked as a Data Analyst at Weaddo and worked at a data science intern at companies like Positive Integer(Gurgaon), Stryker Global Technology and Positive Integers (Chennai). 
+- I know Machine Learning, Deep Learning , Time Series, Hypothesis Testing , Bayesian Statistics and use them in my analysis. 
 
 
  
@@ -35,28 +36,30 @@
  <img height="40" src="https://img.shields.io/badge/postgreSQL-%23ED8B00.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=blue" />
  </code>
  </p>
-
-
-
-
-### GitHub Stats
-<p align="center">
-  <a href="https://github.com/yashagarwal1999">
-    <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=yashagarwal1999&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true"/>
-  </a>
-  </p>
-  
- ### Top Languages: 
- <p align="center">
-  <a href="https://github.com/yashagarwal1999">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=yashagarwal1999&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400" align="center" />
- </a>
+ 
+<!--Tableau-->
+<code>
+ <img height="40" src="https://img.shields.io/badge/Tableau-%23ED8B00.svg?&style=for-the-badge&logo=Tableau&logoColor=blue&color=yellow" />
+ </code>
  </p>
+
+<!--Power-BI-->
+<code>
+ <img height="40" src="https://img.shields.io/badge/Power-BI-%23ED8B00.svg?&style=for-the-badge&logo=Power-BI&logoColor=blue&Color="red"" />
+ </code>
+ </p>
+ 
+ <!--FLASK-->
+<code>
+ <img height="40" src="https://img.shields.io/badge/Flask-%23ED8B00.svg?&style=for-the-badge&logo=Flask&logoColor=blue&Color=green" />
+ </code>
+ </p>
+
 
 
 ### Follow Me:
 <p>
-<a href="https://www.linkedin.com/in/yash-agarwal-b35ba076/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp; &nbsp; &nbsp; <a href="https://www.instagram.com/humorously_funny/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> &nbsp; &nbsp; &nbsp;  <a href="https://www.codechef.com/users/bat_mobile"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/codechef.svg" /></a> &nbsp; &nbsp; &nbsp;  <a href="https://www.hackerrank.com/agarvalyash12"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/hackerrank.svg" /></a> 
+<a href="https://www.linkedin.com/in/shreya-sinha-585b4116b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp; &nbsp; &nbsp; <a href="https://www.instagram.com/pirate_xcx/?hl=en"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> &nbsp; &nbsp; &nbsp;  <a href="https://www.hackerrank.com/sherryishu59"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/hackerrank.svg" /></a> 
  </p>
 
 
