@@ -19,19 +19,24 @@
  <br><br>
 ## Worked With
 
-<p>
-<!--Python-->
+
+ <p>
+<!-- Python -->
 <code><img height="40" src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" /></code>
-  
+
 
 <!--MYSQL-->
-<code><img height="40" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /></code>
+<code>
+ <img height="40" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+  </code>
   
 <!--PostgreSQL-->
-<code><img height="40" src="https://img.shields.io/badge/postgreSQL-%23ED8B00.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=blue"/></code>
+<code>
+ <img height="40" src="https://img.shields.io/badge/postgreSQL-%23ED8B00.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=blue" />
+ </code>
+ </p>
 
 
-</p>
 
 
 ### GitHub Stats
